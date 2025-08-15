@@ -1,0 +1,4 @@
+/home/clan-nur/ws_3D_touch_heptic_touch/2_python_read_and_write_data_from_haptic_3d_touch/build/CMakeFiles/haptic_lib.dir
+/home/clan-nur/ws_3D_touch_heptic_touch/2_python_read_and_write_data_from_haptic_3d_touch/build/CMakeFiles/haptic.dir
+/home/clan-nur/ws_3D_touch_heptic_touch/2_python_read_and_write_data_from_haptic_3d_touch/build/CMakeFiles/edit_cache.dir
+/home/clan-nur/ws_3D_touch_heptic_touch/2_python_read_and_write_data_from_haptic_3d_touch/build/CMakeFiles/rebuild_cache.dir

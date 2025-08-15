@@ -11,6 +11,8 @@ This repository contains code, configurations, and documentation to run and test
 conda create -n haptic_3d_touch python=3.8 -y
 conda activate haptic_3d_touch
 pip install -r requirements.txt
+sudo apt-get install freeglut3-dev
+sudo apt-get install libncurses5 libtinfo5
 ```
 
 ---
@@ -55,6 +57,23 @@ Create a symbolic link to map /dev/ttyACM300 to /dev/ttyACM0
 ```bash
 sudo ln -sf /dev/ttyACM0 /dev/ttyACM300
 ls -l /dev/ttyACM*
+```
+
+---
+
+### The Example of read and write in cpp
+```bash
+cd cpp_read_and_write_data_from_haptic_3d_touch
+```
+
+---
+
+### The Example of read and write in python
+```bash
+cd python_read_and_write_data_from_haptic_3d_touch
+mkdir build && cd build
+cmake .. 
+cmake --build .
 ```
 
 ---

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhaptic_lib.a CMakeFiles/haptic_lib.dir/src/haptic_lib.cpp.o
+/usr/bin/ranlib libhaptic_lib.a

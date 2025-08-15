@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -flto -shared  -o examples/haptic.cpython-310-x86_64-linux-gnu.so CMakeFiles/haptic.dir/src/haptic_binding.cpp.o  libhaptic_lib.a /usr/lib/libHD.so 
